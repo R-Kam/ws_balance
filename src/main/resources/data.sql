@@ -1,0 +1,11 @@
+insert into BALANCE (ID, BALANCE, PRODUCT_ID, LOCATION_ID) values ('1','1', '1', '1');
+insert into BALANCE (ID, BALANCE, PRODUCT_ID, LOCATION_ID) values ('2', '2', '1', '2');
+insert into BALANCE (ID, BALANCE, PRODUCT_ID, LOCATION_ID) values ('3', '3', '1', '3');
+insert into BALANCE (ID, BALANCE, PRODUCT_ID, LOCATION_ID) values ('4', '4', '1', '4');
+insert into BALANCE (ID, BALANCE, PRODUCT_ID, LOCATION_ID) values ('5', '5', '1', '5');
+insert into BALANCE (ID, BALANCE, PRODUCT_ID, LOCATION_ID) values ('6', '1', '2', '1');
+insert into BALANCE (ID, BALANCE, PRODUCT_ID, LOCATION_ID) values ('7', '2', '2', '2');
+insert into BALANCE (ID, BALANCE, PRODUCT_ID, LOCATION_ID) values ('8', '3', '2', '3');
+insert into BALANCE (ID, BALANCE, PRODUCT_ID, LOCATION_ID) values ('9', '4', '2', '4');
+insert into BALANCE (ID, BALANCE, PRODUCT_ID, LOCATION_ID) values ('10', '1', '3', '1');
+insert into BALANCE (ID, BALANCE, PRODUCT_ID, LOCATION_ID) values ('11', '2', '3', '2');
